@@ -70,7 +70,7 @@ If you encounter errors, you most likely have not configured the dependencies co
 
 ### Debug build
 
-In order to track down possible bugs, you will need a debug buid so you
+In order to track down possible bugs, you will need a debug build so you
 can get a backtrace with [gdb](http://www.gnu.org/software/gdb/) or
 [lldb](http://lldb.llvm.org/).
 
